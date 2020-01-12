@@ -1,0 +1,111 @@
+table{
+    border: solid 1px;
+}
+
+.cell{
+    width: 27px;
+    height:27px;
+    text-align: center;
+    font-size: 15px;
+    border: solid 1px;
+    background-color: rgb(212, 209, 209);
+}
+
+td {
+    width: 40px;
+    height:40px;
+    text-align: center;
+  
+    
+}
+
+.levels{
+    margin: 8px;
+}
+
+
+img{
+    width: 15px;
+    height: 15px;
+}
+
+.smiley{
+    width: 22px;
+    height: 22px;
+    padding: 5px;
+}
+
+
+body{
+    text-align: center;
+    background-color: rgb(237, 241, 220);
+}
+
+.info{
+    border: ridge 1px;
+}
+
+.info td{
+    border: solid 1px;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+}
+.heading {
+   margin: 2px;
+}
+
+.safe{
+    background-color: rgb(162, 255, 167);
+}
+
+.safe-click{
+    margin: 3px;
+    background-color: rgb(214, 250, 255);
+    border: solid 1px;
+}
+
+.time{
+    margin: 10px;
+}
+
+fieldset{
+    margin: 5px;
+}
+
+.hint{
+    padding: 3px;
+}
+
+.shown{
+    background-color: rgb(148, 148, 148);
+}
+
+.mine-expose{
+    background-color:rgb(255, 116, 116);
+
+}
+
+.smiley{
+    background-color: rgb(235, 238, 255);
+}
+.hint{
+    background-color: rgb(210, 212, 248);
+}
+.life{
+    background-color: rgb(210, 212, 248);
+}
+.time{
+    border: 0px;
+    background: none;
+}
+
+legend{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.manual{
+    background-color: rgb(214, 250, 255);
+    border: solid 1px;
+}
